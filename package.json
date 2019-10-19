@@ -1,0 +1,32 @@
+{
+  "name": "@theroyalwhee0/istype",
+  "version": "0.0.1",
+  "description": "An opinionated type identifier library for Javascript.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theroyalwhee0/istype.git"
+  },
+  "keywords": [
+    "types"
+  ],
+  "author": "Adam Mill <theroyalwhee0@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/theroyalwhee0/istype/issues"
+  },
+  "homepage": "https://github.com/theroyalwhee0/istype#readme",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "eslint": "6.5.1",
+    "mocha": "6.2.2"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha --sort --recursive --check-leaks",
+    "test-watch": "mocha --watch --reporter=dot --sort --recursive --check-leaks",
+    "test-watch-spec": "mocha --watch --reporter=spec --sort --recursive --check-leaks",
+    "lint": "eslint src/**/*.js* && eslint test/**/*.js",
+    "lint-fix": "eslint src/**/*.js --fix && eslint test/**/*.js --fix"
+  }
+}
