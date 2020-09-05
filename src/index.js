@@ -1,6 +1,12 @@
 /**
  * @theroyalwhee0/istype:src/index.js
+ * @file istype: An opinionated type identifier library for Javascript.
+ * @version 0.0.2
+ * @author Adam Mill
+ * @copyright Copyright 2019-2020 Adam Mill
+ * @license Apache-2.0
  */
+'use strict';
 
 /**
  * Is Array?

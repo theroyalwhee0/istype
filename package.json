@@ -1,6 +1,6 @@
 {
   "name": "@theroyalwhee0/istype",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An opinionated type identifier library for Javascript.",
   "main": "src/index.js",
   "repository": {
@@ -19,7 +19,7 @@
   "devDependencies": {
     "chai": "4.2.0",
     "eslint": "6.5.1",
-    "mocha": "6.2.2"
+    "mocha": "8.1.3"
   },
   "dependencies": {},
   "scripts": {

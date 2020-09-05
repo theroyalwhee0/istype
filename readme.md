@@ -15,6 +15,7 @@ yarn add @theroyalwhee0/istype
 - NPM: https://www.npmjs.com/package/@theroyalwhee0/istype
 
 ## History
+- 0.0.2 Bump dev depends versions.
 - 0.0.1 Initial release
 
 ## Legal & License

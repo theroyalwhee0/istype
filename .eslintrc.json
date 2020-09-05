@@ -48,7 +48,7 @@
         ],
         "comma-dangle": [
             "error",
-            { 
+            {
                 "objects": "always-multiline",
                 "arrays": "always-multiline"
             }
