@@ -1,7 +1,7 @@
 # @theroyalwhee0/istype
 
 ## Description
-An opinionated type identifier library for Javascript.
+An opinionated type-of library for Javascript.
 
 
 ## Installation
@@ -10,6 +10,10 @@ npm install @theroyalwhee0/istype
 *or*
 
 yarn add @theroyalwhee0/istype
+
+
+## Documentation
+[API Documentation](https://theroyalwhee0.github.io/istype/)
 
 
 ## Testing.

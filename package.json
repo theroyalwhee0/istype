@@ -1,7 +1,7 @@
 {
   "name": "@theroyalwhee0/istype",
   "version": "2.0.0",
-  "description": "An opinionated type identifier library for Javascript.",
+  "description": "An opinionated type-of library for Javascript.",
   "main": "src/index.js",
   "author": "Adam Mill <hismajesty@theroyalwhee.com>",
   "license": "Apache-2.0",

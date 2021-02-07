@@ -1,5 +1,5 @@
 /**
- * @file istype: An opinionated type identifier library for Javascript.
+ * @file istype: An opinionated type-of library for Javascript.
  * @version v2.0.0
  * @author Adam Mill
  * @copyright Copyright 2019-2021 Adam Mill
