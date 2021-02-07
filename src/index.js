@@ -1,6 +1,6 @@
 /**
  * @file istype: An opinionated type-of library for Javascript.
- * @version v2.0.0
+ * @version v2.0.1
  * @author Adam Mill
  * @copyright Copyright 2019-2021 Adam Mill
  * @license Apache-2.0
@@ -142,6 +142,7 @@ module.exports = {
   isObject,
   isString,
   isSymbol,
+  isBigInt,
   canHaveMembers,
   getTypeOf,
 };
