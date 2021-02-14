@@ -3,8 +3,7 @@
     "pedantic": true,
     "recurse": true,
     "readme": "README.md",
-    "destination": "docs/",
-    "access": "public"
+    "destination": "docs/"
   },
   "source": {
     "include": [ "src/" ]
