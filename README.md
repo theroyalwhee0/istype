@@ -32,6 +32,9 @@ Manual module include tests are located in the test-modules folder.
 
 
 ## History
+- v2.0.2 - 2021-02-14
+  - Remove date from documentation.
+  - Remove accidental dependency.
 - v2.0.1 - 2021-02-06
   - Fix export for isBigInt.
   - Add tests for isBigInt.
