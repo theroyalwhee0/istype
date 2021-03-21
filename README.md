@@ -1,7 +1,5 @@
 # @theroyalwhee0/istype
-
-## Description
-An opinionated type-of library for Javascript.
+An opinionated type-of library for Javascript and TypeScript.
 
 
 ## Installation
@@ -17,13 +15,7 @@ yarn add @theroyalwhee0/istype
 
 
 ## Testing.
-Running ```npm run test``` will run the test suite under Mocha. Running ```npm run test-watch``` will run the test suite in watch mode.
-
-Manual module include tests are located in the test-modules folder.
-
-
-## Release
-```npm run build``` or ```release.sh``` builds the TypeScript source into both .js and .mjs files.
+Running ```npm run test``` will run the test suite. Running ```npm run test-watch``` will run the test suite in watch mode.
 
 
 ## Links
@@ -32,6 +24,10 @@ Manual module include tests are located in the test-modules folder.
 
 
 ## History
+- v3.0.0 - 2021-03-21
+  - Rebuild in TypeScript.
+  - Move to Jest for testing.
+  - Remove canHaveMembers function.
 - v2.0.2 - 2021-02-14
   - Remove date from documentation.
   - Remove accidental dependency.
