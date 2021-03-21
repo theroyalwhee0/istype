@@ -28,7 +28,7 @@
     "typescript": "4.2.3"
   },
   "scripts": {
-    "build": "tsc && cp ./build/src/* ./dist/",
+    "build": "tsc && mkdir -p ./dist && cp ./build/src/* ./dist/",
     "test": "tsc && jest",
     "lint": "eslint src/ test/",
     "test-watch": "npm run build && concurrently 'tsc --watch' 'jest --watchAll'",
