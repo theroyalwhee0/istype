@@ -4,7 +4,7 @@
   "description": "An opinionated type-of library for Javascript and TypeScript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "author": "Adam Mill <hismajesty@theroyalwhee.com>",
+  "author": "Adam Mill <hismajesty@theroyalwhee.com> (https://www.theroyalwhee.com)",
   "license": "Apache-2.0",
   "keywords": [
     "types"
