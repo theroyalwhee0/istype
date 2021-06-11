@@ -24,6 +24,8 @@ Running ```npm run test``` will run the test suite. Running ```npm run test-watc
 
 
 ## History
+- v3.0.1 - 2021-06-11
+  - Bump depends for security.
 - v3.0.0 - 2021-03-21
   - Rebuild in TypeScript.
   - Move to Jest for testing.
