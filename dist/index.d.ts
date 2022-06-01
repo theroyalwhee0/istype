@@ -1,9 +1,9 @@
 /**
  * @module @theroyalwhee0/istype
  * @file An opinionated type-of library for Javascript and TypeScript.
- * @version v3.0.0
+ * @version v3.0.2
  * @author Adam Mill <hismajesty@theroyalwhee.com>
- * @copyright Copyright 2019-2021 Adam Mill
+ * @copyright Copyright 2019-2022 Adam Mill
  * @license Apache-2.0
  */
 /**
