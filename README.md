@@ -3,11 +3,11 @@ An opinionated type-of library for Javascript and TypeScript.
 
 
 ## Installation
-npm install @theroyalwhee0/istype
+`npm install @theroyalwhee0/istype`
 
 *or*
 
-yarn add @theroyalwhee0/istype
+`yarn add @theroyalwhee0/istype`
 
 
 ## Documentation
@@ -54,6 +54,6 @@ Running ```npm run test``` will run the test suite. Running ```npm run test-watc
 
 
 ## Legal & License
-Copyright 2019-2021 Adam Mill
+Copyright 2019-2022 Adam Mill
 
 This library is released under Apache 2 license. See [LICENSE](https://github.com/theroyalwhee0/istype/blob/master/LICENSE) for more details.
