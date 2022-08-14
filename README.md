@@ -24,7 +24,9 @@ Running ```npm run test``` will run the test suite. Running ```npm run test-watc
 
 
 ## History
-- v3.0.1 - 2022-06-01
+- v3.0.3 - 2022-08-13
+  - Add isBoolean().
+- v3.0.2 - 2022-06-01
   - Bump depends for security.
 - v3.0.1 - 2021-06-11
   - Bump depends for security.
