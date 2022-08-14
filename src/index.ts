@@ -17,6 +17,15 @@ export function isArray<T = unknown>(value: unknown): value is Array<T> {
 }
 
 /**
+ * Is a Boolean?
+ * @param {unknown} value The value to check.
+ * @returns {boolean} The results.
+ */
+ export function isBoolean(value: unknown): value is boolean {
+  return value === true || value === false;
+}
+
+/**
  * Is an Object?
  * Opinionated: arrays are not objects.
  * @param {unknown} value The value to check.
@@ -96,6 +105,8 @@ export function getTypeOf(value: unknown): string {
     return 'undefined';
   } else if (Number.isNaN(value)) {
     return 'nan';
+  } else if (isBoolean(value)) {
+    return 'boolean';
   } else if (isObject(value)) {
     return 'object';
   } else if (isArray(value)) {
