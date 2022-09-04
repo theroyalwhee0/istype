@@ -1,7 +1,6 @@
 /**
  * @module @theroyalwhee0/istype
  * @file An opinionated type-of library for Javascript and TypeScript.
- * @version v3.0.2
  * @author Adam Mill <hismajesty@theroyalwhee.com>
  * @copyright Copyright 2019-2022 Adam Mill
  * @license Apache-2.0
@@ -12,6 +11,12 @@
  * @returns {boolean} The results.
  */
 export declare function isArray<T = unknown>(value: unknown): value is Array<T>;
+/**
+ * Is a Boolean?
+ * @param {unknown} value The value to check.
+ * @returns {boolean} The results.
+ */
+export declare function isBoolean(value: unknown): value is boolean;
 /**
  * Is an Object?
  * Opinionated: arrays are not objects.

@@ -24,6 +24,9 @@ Running ```npm run test``` will run the test suite. Running ```npm run test-watc
 
 
 ## History
+- v3.0.4 - 2022-09-03
+  - Improve build and publish scriptlets.
+  - Fix isBoolean not being included in types.
 - v3.0.3 - 2022-08-13
   - Add isBoolean.
 - v3.0.2 - 2022-06-01
