@@ -34,7 +34,7 @@ test.each([
   // Infinity.
   Number.NEGATIVE_INFINITY, Number.POSITIVE_INFINITY,
   // Strings.
-  "1", "",
+  "1", "0", "", "true", "false",
   // Objects
   new Date(), {},
   // Boolean object.
