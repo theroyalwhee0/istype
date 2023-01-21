@@ -23,42 +23,7 @@ Running ```npm run test``` will run the test suite. Running ```npm run test-watc
 - NPM: [https://www.npmjs.com/package/@theroyalwhee0/istype](https://www.npmjs.com/package/@theroyalwhee0/istype)
 
 
-## History
-- v3.0.4 - 2022-09-03
-  - Improve build and publish scriptlets.
-  - Fix isBoolean not being included in types.
-- v3.0.3 - 2022-08-13
-  - Add isBoolean.
-- v3.0.2 - 2022-06-01
-  - Bump depends for security.
-- v3.0.1 - 2021-06-11
-  - Bump depends for security.
-- v3.0.0 - 2021-03-21
-  - Rebuild in TypeScript.
-  - Move to Jest for testing.
-  - Remove canHaveMembers function.
-- v2.0.2 - 2021-02-14
-  - Remove date from documentation.
-  - Remove accidental dependency.
-- v2.0.1 - 2021-02-06
-  - Fix export for isBigInt.
-  - Add tests for isBigInt.
-- v2.0.0 - 2021-02-06
-  - Back to Javascript.
-  - Add isBigInt.
-  - Add documentation.
-- v1.0.0
-  - Port to Typescript.
-  - Remove exports for isNaN.
-  - Add isSymbol, isInteger.
-  - Build both CommonsJS/.js and Module/.mjs files.
-- v0.0.2
-  - Bump dev depends versions.
-- v0.0.1
-  - Initial release.
-
-
 ## Legal & License
-Copyright 2019-2022 Adam Mill
+Copyright 2019-2023 Adam Mill
 
 This library is released under Apache 2 license. See [LICENSE](https://github.com/theroyalwhee0/istype/blob/master/LICENSE) for more details.
