@@ -9,7 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Changed 
 
-## [3.0.5]
+
+## [3.0.5] - 2023-01-21
 ### Fixed
 - Bump depends for security.
 ### Added
